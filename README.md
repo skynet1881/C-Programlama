@@ -1,4 +1,4 @@
-# C-Programlama
+# C - Programlama
 Kapsamli C programlama egitimi serisi
 
 - What is C Programming Language?
@@ -30,4 +30,3 @@ Kapsamli C programlama egitimi serisi
 - Standard Library Functions
 
 - Additional Resources and References
-
